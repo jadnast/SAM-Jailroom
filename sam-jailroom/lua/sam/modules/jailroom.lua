@@ -3,7 +3,7 @@ Jailroom.Config = Jailroom.Config or {}
 
 Jailroom.Config.jailroom_pos = Vector(-714.7, -3.7, 12224) -- spawn jailing player
 Jailroom.Config.jailroom_model = 'models/player/skeleton.mdl' -- model for jailing player
-Jailroom.Config.jailroom_maxspeed = 50
+Jailroom.Config.jailroom_maxspeed = 50 -- speed player in jail
 Jailroom.Config.max_seconds = 172800 -- 48 hours
 
 local META = FindMetaTable( 'Player' )
