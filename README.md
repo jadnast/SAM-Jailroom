@@ -1,5 +1,5 @@
 # SAM-Jailroom
-SAM Admin Module on JAILROOM
+SAM Admin Jailroom Module
 
 # Installing
 - download ZIP
